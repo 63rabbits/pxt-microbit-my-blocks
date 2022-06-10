@@ -1,5 +1,5 @@
 {
-    "name": "pxt-miicrobit-my-blocks",
+    "name": "pxt-microbit-my-blocks",
     "description": "",
     "dependencies": {
         "core": "*"
@@ -8,7 +8,8 @@
         "main.blocks",
         "main.ts",
         "myBlocks.ts",
-        "myBlocks.cpp"
+        "myBlocks.cpp",
+        "README.md"
     ],
     "testFiles": [
         "test.ts"
